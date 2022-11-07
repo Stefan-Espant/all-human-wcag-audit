@@ -14,6 +14,9 @@ De eerste bug was het feit dat alle social media buttons geen alternatieve tekst
 
 Om door de website heen te bewegen besloot ik door middel van mijn toetsenbord de tab knop te gebruiken. Midden op de pagina staan drie hoofdcatergorieën om te navigeren. Wanneer ik doormiddel van tab bewoog was ik op een gegeven moment mijn cursor kwijt. Het bleek dat die in een dropdown menu verstopt zat. 
 
+## Bron
+https://www.gaiazoo.nl/
+
 
 ## Licentie
 
