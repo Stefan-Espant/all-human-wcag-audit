@@ -4,7 +4,7 @@
 
 ## Gaiazoo Kerkrade
 
-Welke website heb je getest? Beschrijf de website en upload een screenshot. 
+Voor het thema toegankelijk gingen we aan de slag met de vinden van slecht scorende websites. Na het zoeken van tientallen websites met een score tussen de 65 & 100% vond ik de website van Gaiazoo in Kerkrade. Met een score van 54% was dit de laagste van het rijtje. 
 
 Toon een screenshot van het Lighthouse Accessibility test resultaat.
 
